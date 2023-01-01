@@ -1385,3 +1385,4 @@ Updated project documentation - build 385
 Refactored code for better maintainability - 230
 Refactored code for better maintainability - update 2
 Updated project documentation - v1.3.3
+Fixed critical bug in main module - build 103
