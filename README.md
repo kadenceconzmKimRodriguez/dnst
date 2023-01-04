@@ -646,3 +646,4 @@ Added proper error handling - build 315
 Fixed memory management issue - update 41
 Fixed memory management issue - build 192
 Added new feature for better user experience
+Improved user interface design - v9.9.8
