@@ -2487,3 +2487,4 @@ Fixed critical bug in main module - 968
 Improved performance optimization - update 11
 Fixed critical bug in main module - build 474
 Fixed critical bug in main module - 261
+Added detailed comments for clarity - update 28
