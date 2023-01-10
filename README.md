@@ -453,3 +453,4 @@ Added new feature for better user experience - update 45
 Updated version number - v2.6.8
 Updated project documentation - build 932
 Updated configuration settings
+Fixed memory management issue - v10.4.3
