@@ -3856,3 +3856,4 @@ Added new feature for better user experience
 Fixed critical bug in main module - update 5
 Added input validation - 906
 Fixed typo in documentation - update 24
+Added input validation - v6.1.6
