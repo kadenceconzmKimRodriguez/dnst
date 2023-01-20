@@ -2254,3 +2254,4 @@ Updated dependencies to latest versions - v2.2.7
 Added comprehensive test coverage - v2.2.2
 Added comprehensive test coverage - 104
 Updated styling and themes - 590
+Updated configuration settings - v7.2.6
