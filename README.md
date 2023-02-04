@@ -2263,3 +2263,4 @@ Fixed critical bug in main module
 Updated README with new instructions - update 35
 Updated README with new instructions - update 4
 Fixed critical bug in main module - build 150
+Fixed memory management issue
