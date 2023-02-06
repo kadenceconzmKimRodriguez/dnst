@@ -393,3 +393,4 @@ Updated styling and themes - 907
 Updated version number - 491
 Updated version number - update 5
 Added proper error handling - build 777
+Added input validation - build 434
