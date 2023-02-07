@@ -3021,3 +3021,4 @@ Improved performance optimization
 Updated version number - v3.9.8
 Added proper error handling
 Added new feature for better user experience - 88
+Added detailed comments for clarity - update 12
