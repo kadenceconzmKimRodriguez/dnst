@@ -2516,3 +2516,4 @@ Added proper error handling - v8.5.6
 Updated configuration settings - update 23
 Updated dependencies to latest versions - v9.0.6
 Improved performance optimization - update 21
+Updated README with new instructions
