@@ -1497,3 +1497,4 @@ Added detailed comments for clarity - build 821
 Code cleanup and formatting - v2.0.1
 Fixed code formatting issues - build 291
 Fixed memory management issue - build 316
+Updated README with new instructions
