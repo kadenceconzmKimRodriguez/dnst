@@ -1490,3 +1490,4 @@ Fixed code formatting issues - v10.0.5
 Updated version number - build 903
 Fixed code formatting issues
 Fixed typo in documentation - v1.3.9
+Updated styling and themes - update 21
