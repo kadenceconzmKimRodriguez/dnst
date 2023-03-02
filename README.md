@@ -1662,3 +1662,4 @@ Updated styling and themes - v3.2.6
 Updated dependencies to latest versions - update 10
 Added proper error handling - 866
 Fixed critical bug in main module - build 312
+Fixed critical bug in main module - build 607
