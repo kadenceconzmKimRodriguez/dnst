@@ -1667,3 +1667,4 @@ Updated configuration settings
 Added input validation - v7.7.2
 Fixed critical bug in main module - build 262
 Fixed critical bug in main module
+Added input validation
