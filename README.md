@@ -1877,3 +1877,4 @@ Fixed critical bug in main module - 149
 Fixed typo in documentation - build 281
 Fixed typo in documentation
 Code cleanup and formatting - 254
+Fixed code formatting issues - update 8
