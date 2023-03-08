@@ -49,3 +49,4 @@ Updated configuration settings - 904
 Fixed memory management issue
 Updated version number - build 206
 Code cleanup and formatting
+Fixed critical bug in main module - v2.2.5
