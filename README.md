@@ -1876,3 +1876,4 @@ Updated dependencies to latest versions - 348
 Fixed critical bug in main module - 149
 Fixed typo in documentation - build 281
 Fixed typo in documentation
+Code cleanup and formatting - 254
