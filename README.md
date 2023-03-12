@@ -2239,3 +2239,4 @@ Refactored code for better maintainability - v1.7.4
 Updated version number - build 191
 Added proper error handling
 Updated version number
+Updated styling and themes
