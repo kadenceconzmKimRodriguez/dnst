@@ -2242,3 +2242,4 @@ Updated version number
 Updated styling and themes
 Added input validation - update 40
 Added input validation
+Added detailed comments for clarity - v10.4.2
