@@ -2556,3 +2556,4 @@ Updated project documentation
 Updated styling and themes - 648
 Fixed critical bug in main module - v5.2.1
 Updated project documentation - build 280
+Added proper error handling
