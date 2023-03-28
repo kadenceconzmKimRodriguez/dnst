@@ -3896,3 +3896,4 @@ Updated dependencies to latest versions - update 22
 Fixed typo in documentation - v2.6.5
 Updated version number - build 681
 Refactored code for better maintainability - build 342
+Code cleanup and formatting - 264
