@@ -3847,3 +3847,4 @@ Added input validation - 206
 Fixed code formatting issues
 Added detailed comments for clarity
 Added detailed comments for clarity - update 1
+Optimized algorithm for better efficiency - 218
