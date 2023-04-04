@@ -2121,3 +2121,4 @@ Fixed code formatting issues - v5.2.1
 Updated README with new instructions
 Optimized algorithm for better efficiency - build 938
 Updated README with new instructions - 4
+Updated README with new instructions - 505
