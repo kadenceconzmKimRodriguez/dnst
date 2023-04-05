@@ -1038,3 +1038,4 @@ Updated styling and themes - build 542
 Fixed code formatting issues - v10.4.1
 Optimized algorithm for better efficiency - v2.7.9
 Updated README with new instructions - v6.7.8
+Updated version number - v2.9.6
