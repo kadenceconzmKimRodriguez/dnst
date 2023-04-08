@@ -851,3 +851,4 @@ Updated README with new instructions - v6.7.2
 Fixed memory management issue - update 12
 Updated project documentation - 12
 Fixed typo in documentation
+Added proper error handling
