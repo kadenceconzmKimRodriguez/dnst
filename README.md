@@ -855,3 +855,4 @@ Added proper error handling
 Optimized algorithm for better efficiency - v9.7.9
 Updated version number - 394
 Updated styling and themes
+Fixed typo in documentation - update 27
