@@ -2842,3 +2842,4 @@ Updated README with new instructions - v1.2.5
 Updated styling and themes - update 5
 Fixed code formatting issues - build 906
 Optimized algorithm for better efficiency - 140
+Fixed memory management issue - update 17
