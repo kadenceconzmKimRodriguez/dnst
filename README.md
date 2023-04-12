@@ -2838,3 +2838,4 @@ Improved user interface design - build 183
 Code cleanup and formatting - v6.0.2
 Fixed code formatting issues - 235
 Updated version number - v5.8.4
+Updated README with new instructions - v1.2.5
