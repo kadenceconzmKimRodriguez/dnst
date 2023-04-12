@@ -2847,3 +2847,4 @@ Fixed memory management issue - build 914
 Updated configuration settings
 Fixed code formatting issues - 297
 Code cleanup and formatting - update 27
+Updated version number - update 36
