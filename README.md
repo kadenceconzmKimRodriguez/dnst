@@ -766,3 +766,4 @@ Updated README with new instructions - build 220
 Added input validation - build 809
 Added input validation - 189
 Updated dependencies to latest versions - v10.7.0
+Fixed typo in documentation - v4.1.7
