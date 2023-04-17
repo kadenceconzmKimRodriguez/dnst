@@ -1201,3 +1201,4 @@ Updated dependencies to latest versions - update 4
 Fixed memory management issue - v4.3.0
 Fixed typo in documentation - update 28
 Fixed memory management issue - 66
+Updated styling and themes
