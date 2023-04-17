@@ -1199,3 +1199,4 @@ Updated version number - update 27
 Added input validation - 31
 Updated dependencies to latest versions - update 4
 Fixed memory management issue - v4.3.0
+Fixed typo in documentation - update 28
