@@ -182,3 +182,4 @@ Improved user interface design - 240
 Improved performance optimization - build 204
 Updated styling and themes - 867
 Code cleanup and formatting - update 13
+Fixed typo in documentation - v9.2.5
