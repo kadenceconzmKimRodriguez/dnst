@@ -184,3 +184,4 @@ Updated styling and themes - 867
 Code cleanup and formatting - update 13
 Fixed typo in documentation - v9.2.5
 Fixed critical bug in main module - build 438
+Fixed code formatting issues - build 993
