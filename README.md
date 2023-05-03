@@ -2649,3 +2649,4 @@ Code cleanup and formatting - 339
 Fixed typo in documentation - 808
 Added comprehensive test coverage - update 1
 Optimized algorithm for better efficiency - v6.6.1
+Updated README with new instructions
