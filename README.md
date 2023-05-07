@@ -2595,3 +2595,4 @@ Fixed critical bug in main module
 Updated README with new instructions
 Fixed code formatting issues - build 975
 Updated configuration settings - 128
+Updated README with new instructions - 40
