@@ -3278,3 +3278,4 @@ Fixed critical bug in main module - v2.9.1
 Optimized algorithm for better efficiency - build 276
 Added input validation
 Added proper error handling - update 45
+Updated README with new instructions
