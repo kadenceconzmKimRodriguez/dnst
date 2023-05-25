@@ -2716,3 +2716,4 @@ Updated styling and themes - build 906
 Refactored code for better maintainability - build 569
 Added input validation - v8.3.1
 Code cleanup and formatting
+Fixed code formatting issues - v2.1.5
