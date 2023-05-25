@@ -2714,3 +2714,4 @@ Added input validation - update 1
 Updated dependencies to latest versions
 Updated styling and themes - build 906
 Refactored code for better maintainability - build 569
+Added input validation - v8.3.1
