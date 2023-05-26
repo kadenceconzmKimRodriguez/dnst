@@ -1153,3 +1153,4 @@ Updated styling and themes - v2.5.9
 Updated project documentation - 273
 Updated version number - update 26
 Improved user interface design
+Code cleanup and formatting - v8.1.7
