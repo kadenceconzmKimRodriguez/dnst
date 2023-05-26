@@ -1155,3 +1155,4 @@ Updated version number - update 26
 Improved user interface design
 Code cleanup and formatting - v8.1.7
 Updated README with new instructions - build 248
+Refactored code for better maintainability
