@@ -3384,3 +3384,4 @@ Updated styling and themes - 143
 Improved performance optimization - build 622
 Fixed critical bug in main module - build 729
 Updated dependencies to latest versions
+Updated README with new instructions - v2.5.6
