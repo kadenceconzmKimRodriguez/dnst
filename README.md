@@ -2198,3 +2198,4 @@ Added input validation - build 601
 Updated project documentation
 Added input validation
 Added new feature for better user experience - v1.7.7
+Added proper error handling - build 355
