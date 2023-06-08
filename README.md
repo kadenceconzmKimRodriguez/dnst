@@ -2278,3 +2278,4 @@ Fixed memory management issue
 Fixed typo in documentation - v7.4.0
 Fixed critical bug in main module - 609
 Fixed memory management issue
+Updated README with new instructions - 934
