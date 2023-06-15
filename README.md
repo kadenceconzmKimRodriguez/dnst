@@ -1324,3 +1324,4 @@ Fixed typo in documentation - 85
 Added input validation - v7.2.8
 Updated styling and themes - v9.8.6
 Fixed memory management issue - 758
+Fixed memory management issue - update 7
