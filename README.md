@@ -3318,3 +3318,4 @@ Added new feature for better user experience - v3.4.1
 Improved performance optimization - update 41
 Refactored code for better maintainability - update 50
 Fixed typo in documentation - 572
+Fixed memory management issue - v8.2.6
