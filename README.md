@@ -2887,3 +2887,4 @@ Updated dependencies to latest versions - v8.6.4
 Updated styling and themes - build 363
 Code cleanup and formatting - update 17
 Fixed code formatting issues
+Added proper error handling - build 234
