@@ -1071,3 +1071,4 @@ Improved performance optimization
 Fixed critical bug in main module - 63
 Fixed code formatting issues - v8.7.4
 Fixed code formatting issues - build 410
+Updated README with new instructions - update 22
