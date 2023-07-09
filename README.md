@@ -619,3 +619,4 @@ Refactored code for better maintainability - update 38
 Fixed typo in documentation - v4.7.4
 Added input validation - update 48
 Added new feature for better user experience - 48
+Added detailed comments for clarity
