@@ -557,3 +557,4 @@ Updated configuration settings - update 20
 Updated version number
 Fixed critical bug in main module - 87
 Updated version number - update 26
+Added proper error handling - update 4
