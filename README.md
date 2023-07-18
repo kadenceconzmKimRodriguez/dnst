@@ -1638,3 +1638,4 @@ Fixed typo in documentation
 Code cleanup and formatting
 Code cleanup and formatting - build 671
 Fixed code formatting issues - 781
+Updated dependencies to latest versions - v4.6.4
