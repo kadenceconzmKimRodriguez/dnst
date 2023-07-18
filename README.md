@@ -1642,3 +1642,4 @@ Updated dependencies to latest versions - v4.6.4
 Improved performance optimization - 740
 Fixed critical bug in main module - build 312
 Improved performance optimization - v5.8.6
+Fixed memory management issue - 153
