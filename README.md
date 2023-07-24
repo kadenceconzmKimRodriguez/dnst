@@ -3400,3 +3400,4 @@ Updated dependencies to latest versions - 36
 Fixed critical bug in main module - build 511
 Updated project documentation - update 25
 Refactored code for better maintainability
+Added detailed comments for clarity - v9.6.5
