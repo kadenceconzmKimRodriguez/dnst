@@ -3227,3 +3227,4 @@ Updated styling and themes - v10.3.9
 Updated version number
 Updated project documentation
 Refactored code for better maintainability
+Added detailed comments for clarity - v7.8.8
