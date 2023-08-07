@@ -2131,3 +2131,4 @@ Updated configuration settings
 Added input validation - 524
 Added input validation
 Updated version number
+Updated dependencies to latest versions - v7.3.5
