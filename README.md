@@ -990,3 +990,4 @@ Code cleanup and formatting - update 21
 Updated README with new instructions - update 5
 Fixed code formatting issues - 710
 Updated project documentation - 196
+Refactored code for better maintainability - v6.8.0
