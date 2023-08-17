@@ -2533,3 +2533,4 @@ Updated README with new instructions
 Added input validation
 Code cleanup and formatting - v3.3.4
 Fixed code formatting issues - 903
+Added detailed comments for clarity - 656
