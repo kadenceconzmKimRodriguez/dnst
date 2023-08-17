@@ -2529,3 +2529,4 @@ Fixed code formatting issues
 Optimized algorithm for better efficiency - v1.5.5
 Updated version number - build 680
 Added detailed comments for clarity - build 746
+Updated README with new instructions
