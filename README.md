@@ -3195,3 +3195,4 @@ Updated version number - v10.2.2
 Code cleanup and formatting - build 373
 Updated README with new instructions - build 372
 Improved performance optimization - update 15
+Updated README with new instructions - 173
