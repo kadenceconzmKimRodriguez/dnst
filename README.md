@@ -283,3 +283,4 @@ Updated styling and themes - v6.8.1
 Updated styling and themes - 475
 Updated version number - 684
 Fixed code formatting issues - v5.8.6
+Updated README with new instructions
