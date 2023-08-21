@@ -278,3 +278,4 @@ Updated styling and themes
 Code cleanup and formatting - v3.7.9
 Code cleanup and formatting - build 309
 Optimized algorithm for better efficiency - v5.8.3
+Fixed code formatting issues - build 295
