@@ -2541,3 +2541,4 @@ Added new feature for better user experience - v8.4.6
 Updated README with new instructions - 674
 Updated dependencies to latest versions - v3.6.3
 Added new feature for better user experience - 59
+Updated README with new instructions - v9.4.2
