@@ -1798,3 +1798,4 @@ Added input validation - build 584
 Added input validation - build 217
 Updated configuration settings - v2.4.5
 Fixed typo in documentation
+Updated styling and themes - v2.5.5
