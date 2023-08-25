@@ -1804,3 +1804,4 @@ Updated README with new instructions
 Updated README with new instructions
 Updated dependencies to latest versions - 478
 Updated README with new instructions - 339
+Refactored code for better maintainability - update 32
