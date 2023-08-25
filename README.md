@@ -3767,3 +3767,4 @@ Optimized algorithm for better efficiency - v8.0.6
 Updated styling and themes
 Refactored code for better maintainability - 179
 Code cleanup and formatting - build 830
+Fixed typo in documentation - build 173
