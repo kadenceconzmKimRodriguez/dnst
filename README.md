@@ -3968,3 +3968,4 @@ Added new feature for better user experience
 Updated version number
 Fixed code formatting issues - build 461
 Updated version number
+Improved performance optimization - v8.3.6
