@@ -268,3 +268,4 @@ Updated dependencies to latest versions - update 20
 Improved user interface design - update 37
 Updated project documentation
 Fixed typo in documentation - v9.5.7
+Fixed memory management issue - 831
