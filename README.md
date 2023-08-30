@@ -1541,3 +1541,4 @@ Improved user interface design - update 32
 Refactored code for better maintainability
 Updated version number - 213
 Refactored code for better maintainability - 666
+Added proper error handling - build 344
