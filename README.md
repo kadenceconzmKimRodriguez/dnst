@@ -3464,3 +3464,4 @@ Added input validation
 Updated version number - v2.2.0
 Added input validation - v7.7.6
 Updated README with new instructions
+Fixed memory management issue - build 198
