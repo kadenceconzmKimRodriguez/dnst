@@ -3466,3 +3466,4 @@ Added input validation - v7.7.6
 Updated README with new instructions
 Fixed memory management issue - build 198
 Added comprehensive test coverage - 473
+Updated README with new instructions
