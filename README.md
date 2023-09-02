@@ -3461,3 +3461,4 @@ Added input validation - update 21
 Added comprehensive test coverage
 Updated README with new instructions - update 3
 Added input validation
+Updated version number - v2.2.0
