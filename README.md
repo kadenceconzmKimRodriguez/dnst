@@ -2581,3 +2581,4 @@ Added input validation - v3.1.5
 Optimized algorithm for better efficiency - build 867
 Fixed memory management issue - 901
 Fixed typo in documentation - update 39
+Fixed memory management issue - 41
