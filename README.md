@@ -2082,3 +2082,4 @@ Code cleanup and formatting - build 380
 Updated styling and themes - v2.4.1
 Updated configuration settings - 11
 Updated project documentation
+Fixed memory management issue - 364
