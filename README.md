@@ -1979,3 +1979,4 @@ Fixed typo in documentation - build 612
 Code cleanup and formatting
 Added proper error handling - 916
 Fixed typo in documentation
+Updated README with new instructions - v2.1.2
