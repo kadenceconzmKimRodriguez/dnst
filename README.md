@@ -126,3 +126,4 @@ Updated README with new instructions - 720
 Fixed typo in documentation
 Updated styling and themes
 Updated README with new instructions
+Added input validation
