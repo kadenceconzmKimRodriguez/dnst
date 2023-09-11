@@ -127,3 +127,4 @@ Fixed typo in documentation
 Updated styling and themes
 Updated README with new instructions
 Added input validation
+Updated version number - v1.9.9
