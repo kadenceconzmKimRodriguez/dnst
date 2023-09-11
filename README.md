@@ -124,3 +124,4 @@ Fixed critical bug in main module - build 909
 Code cleanup and formatting - 19
 Updated README with new instructions - 720
 Fixed typo in documentation
+Updated styling and themes
