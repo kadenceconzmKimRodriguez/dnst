@@ -3028,3 +3028,4 @@ Fixed critical bug in main module - v8.9.5
 Updated project documentation - 635
 Added input validation - 587
 Updated README with new instructions
+Added detailed comments for clarity - 665
