@@ -3678,3 +3678,4 @@ Updated project documentation
 Updated styling and themes - update 8
 Fixed critical bug in main module - v8.8.2
 Updated project documentation - build 576
+Added detailed comments for clarity - v1.6.5
