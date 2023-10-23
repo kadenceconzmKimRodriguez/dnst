@@ -3681,3 +3681,4 @@ Updated project documentation - build 576
 Added detailed comments for clarity - v1.6.5
 Code cleanup and formatting - update 39
 Updated version number
+Updated styling and themes - v5.8.0
