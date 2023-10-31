@@ -255,3 +255,4 @@ Updated configuration settings - update 38
 Code cleanup and formatting
 Refactored code for better maintainability - 585
 Updated project documentation - build 492
+Updated README with new instructions
