@@ -3490,3 +3490,4 @@ Updated project documentation
 Code cleanup and formatting
 Updated version number
 Code cleanup and formatting - 98
+Fixed critical bug in main module
