@@ -3492,3 +3492,4 @@ Updated version number
 Code cleanup and formatting - 98
 Fixed critical bug in main module
 Updated project documentation - v2.1.3
+Updated project documentation - update 4
