@@ -1758,3 +1758,4 @@ Optimized algorithm for better efficiency - 197
 Fixed code formatting issues - build 749
 Fixed memory management issue - v9.4.2
 Updated styling and themes - build 744
+Updated README with new instructions - update 21
