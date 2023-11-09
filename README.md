@@ -1760,3 +1760,4 @@ Fixed memory management issue - v9.4.2
 Updated styling and themes - build 744
 Updated README with new instructions - update 21
 Fixed memory management issue - v9.7.1
+Fixed critical bug in main module
