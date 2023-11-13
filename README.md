@@ -2057,3 +2057,4 @@ Fixed critical bug in main module
 Updated version number - build 945
 Updated configuration settings - build 496
 Fixed critical bug in main module - v3.5.6
+Fixed critical bug in main module - build 881
