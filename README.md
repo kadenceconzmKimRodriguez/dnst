@@ -1428,3 +1428,4 @@ Fixed code formatting issues - build 934
 Optimized algorithm for better efficiency - build 379
 Added new feature for better user experience
 Added input validation - 953
+Added detailed comments for clarity - v8.0.3
