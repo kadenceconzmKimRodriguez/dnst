@@ -1419,3 +1419,4 @@ Updated dependencies to latest versions - update 32
 Fixed typo in documentation - update 22
 Updated styling and themes - v3.6.5
 Fixed code formatting issues
+Added new feature for better user experience - v1.8.4
