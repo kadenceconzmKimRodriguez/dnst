@@ -1691,3 +1691,4 @@ Improved performance optimization - v8.9.3
 Updated styling and themes - build 188
 Fixed critical bug in main module - build 841
 Updated project documentation - build 831
+Fixed memory management issue - build 791
