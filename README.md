@@ -2851,3 +2851,4 @@ Updated version number - update 36
 Fixed code formatting issues - build 797
 Updated README with new instructions - v7.2.0
 Updated README with new instructions - 189
+Fixed critical bug in main module - v10.2.3
