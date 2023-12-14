@@ -1891,3 +1891,4 @@ Added comprehensive test coverage
 Updated version number
 Updated styling and themes - 736
 Fixed memory management issue - build 236
+Code cleanup and formatting - v1.7.3
