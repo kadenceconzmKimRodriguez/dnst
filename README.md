@@ -1894,3 +1894,4 @@ Fixed memory management issue - build 236
 Code cleanup and formatting - v1.7.3
 Improved performance optimization - 145
 Updated styling and themes - build 614
+Fixed typo in documentation - 151
