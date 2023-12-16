@@ -1184,3 +1184,4 @@ Updated README with new instructions - v5.8.5
 Updated project documentation - update 22
 Updated configuration settings - build 546
 Fixed memory management issue
+Updated version number
