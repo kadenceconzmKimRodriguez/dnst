@@ -1187,3 +1187,4 @@ Fixed memory management issue
 Updated version number
 Optimized algorithm for better efficiency - v10.0.0
 Added input validation - v4.4.5
+Added new feature for better user experience - v10.5.2
