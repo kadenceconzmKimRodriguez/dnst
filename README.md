@@ -3918,3 +3918,4 @@ Updated version number - update 4
 Updated dependencies to latest versions - build 971
 Fixed typo in documentation - 767
 Refactored code for better maintainability
+Fixed code formatting issues
