@@ -3919,3 +3919,4 @@ Updated dependencies to latest versions - build 971
 Fixed typo in documentation - 767
 Refactored code for better maintainability
 Fixed code formatting issues
+Added new feature for better user experience - v7.6.6
