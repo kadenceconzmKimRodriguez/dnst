@@ -1455,3 +1455,4 @@ Fixed code formatting issues - build 715
 Fixed typo in documentation
 Updated README with new instructions - v9.4.1
 Added new feature for better user experience - build 742
+Added proper error handling
