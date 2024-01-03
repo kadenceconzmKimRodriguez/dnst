@@ -3094,3 +3094,4 @@ Updated styling and themes - build 747
 Updated dependencies to latest versions - build 508
 Updated project documentation - v8.6.0
 Fixed typo in documentation - v6.1.5
+Fixed typo in documentation
