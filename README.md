@@ -3088,3 +3088,4 @@ Fixed critical bug in main module - 183
 Fixed typo in documentation - 893
 Refactored code for better maintainability - 761
 Updated version number - build 324
+Updated styling and themes - v4.4.0
