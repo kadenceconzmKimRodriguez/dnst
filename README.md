@@ -3096,3 +3096,4 @@ Updated project documentation - v8.6.0
 Fixed typo in documentation - v6.1.5
 Fixed typo in documentation
 Updated styling and themes - update 25
+Refactored code for better maintainability - update 28
