@@ -3092,3 +3092,4 @@ Updated styling and themes - v4.4.0
 Added input validation - v2.2.4
 Updated styling and themes - build 747
 Updated dependencies to latest versions - build 508
+Updated project documentation - v8.6.0
