@@ -3199,3 +3199,4 @@ Updated README with new instructions - 173
 Fixed code formatting issues - v3.3.8
 Refactored code for better maintainability - 201
 Refactored code for better maintainability - build 933
+Added new feature for better user experience
