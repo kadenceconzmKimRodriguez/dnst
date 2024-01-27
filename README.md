@@ -1279,3 +1279,4 @@ Updated dependencies to latest versions - update 45
 Updated README with new instructions
 Added input validation - v3.3.9
 Fixed memory management issue - build 104
+Fixed typo in documentation - 593
