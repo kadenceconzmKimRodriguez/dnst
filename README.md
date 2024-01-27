@@ -1281,3 +1281,4 @@ Added input validation - v3.3.9
 Fixed memory management issue - build 104
 Fixed typo in documentation - 593
 Fixed memory management issue - build 683
+Added proper error handling
