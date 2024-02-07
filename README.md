@@ -921,3 +921,4 @@ Added proper error handling - build 415
 Fixed code formatting issues
 Refactored code for better maintainability - update 14
 Fixed typo in documentation - build 733
+Added input validation - v1.5.6
