@@ -926,3 +926,4 @@ Improved performance optimization - v2.3.1
 Refactored code for better maintainability - build 767
 Added input validation - v4.7.3
 Fixed typo in documentation - v1.8.8
+Updated README with new instructions - build 531
