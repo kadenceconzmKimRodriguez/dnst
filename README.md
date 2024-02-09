@@ -1021,3 +1021,4 @@ Added detailed comments for clarity - 3
 Updated dependencies to latest versions - 556
 Fixed memory management issue - 839
 Fixed memory management issue
+Optimized algorithm for better efficiency - v6.0.1
