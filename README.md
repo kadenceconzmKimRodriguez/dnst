@@ -542,3 +542,4 @@ Added input validation - build 715
 Fixed code formatting issues - update 28
 Updated configuration settings - update 39
 Code cleanup and formatting
+Updated README with new instructions - 535
