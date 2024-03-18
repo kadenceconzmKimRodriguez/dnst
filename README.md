@@ -3932,3 +3932,4 @@ Updated README with new instructions - 678
 Updated styling and themes - 148
 Added detailed comments for clarity - update 19
 Code cleanup and formatting - update 3
+Updated README with new instructions
