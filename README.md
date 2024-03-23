@@ -1458,3 +1458,4 @@ Added new feature for better user experience - build 742
 Added proper error handling
 Updated version number - update 30
 Updated README with new instructions - 582
+Updated README with new instructions - v9.3.2
