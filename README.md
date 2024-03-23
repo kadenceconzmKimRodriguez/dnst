@@ -1460,3 +1460,4 @@ Updated version number - update 30
 Updated README with new instructions - 582
 Updated README with new instructions - v9.3.2
 Added new feature for better user experience - build 265
+Updated README with new instructions - v1.8.5
