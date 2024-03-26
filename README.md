@@ -310,3 +310,4 @@ Updated dependencies to latest versions - 944
 Optimized algorithm for better efficiency
 Fixed typo in documentation - v10.5.5
 Code cleanup and formatting - v2.4.7
+Added proper error handling - v8.3.8
