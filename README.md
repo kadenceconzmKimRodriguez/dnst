@@ -1272,3 +1272,4 @@ Updated styling and themes - v5.2.1
 Refactored code for better maintainability
 Updated README with new instructions - update 48
 Fixed memory management issue - v2.0.5
+Added proper error handling
