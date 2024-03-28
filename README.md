@@ -1269,3 +1269,4 @@ Updated styling and themes
 Updated version number - v7.0.9
 Fixed memory management issue
 Updated styling and themes - v5.2.1
+Refactored code for better maintainability
