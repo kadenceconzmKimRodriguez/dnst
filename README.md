@@ -1268,3 +1268,4 @@ Added input validation - update 10
 Updated styling and themes
 Updated version number - v7.0.9
 Fixed memory management issue
+Updated styling and themes - v5.2.1
