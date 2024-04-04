@@ -204,3 +204,4 @@ Updated configuration settings - v9.7.4
 Code cleanup and formatting - build 396
 Improved user interface design - 239
 Code cleanup and formatting
+Updated version number - v1.4.7
