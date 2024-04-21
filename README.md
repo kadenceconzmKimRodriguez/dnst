@@ -3751,3 +3751,4 @@ Improved performance optimization - v2.0.1
 Updated version number - 23
 Improved performance optimization - v8.5.0
 Code cleanup and formatting - v4.6.4
+Added detailed comments for clarity - 8
