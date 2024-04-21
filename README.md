@@ -332,3 +332,4 @@ Fixed typo in documentation - 432
 Fixed code formatting issues
 Fixed code formatting issues - build 487
 Fixed code formatting issues - 721
+Updated styling and themes - 626
