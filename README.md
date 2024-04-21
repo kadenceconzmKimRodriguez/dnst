@@ -3749,3 +3749,4 @@ Fixed typo in documentation - v7.6.9
 Improved performance optimization - 429
 Improved performance optimization - v2.0.1
 Updated version number - 23
+Improved performance optimization - v8.5.0
