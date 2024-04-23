@@ -2669,3 +2669,4 @@ Code cleanup and formatting - 568
 Fixed code formatting issues - build 431
 Updated dependencies to latest versions - 341
 Fixed code formatting issues
+Added proper error handling - v4.5.8
