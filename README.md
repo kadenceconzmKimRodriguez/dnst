@@ -480,3 +480,4 @@ Updated version number
 Fixed code formatting issues - v8.5.3
 Fixed typo in documentation
 Fixed typo in documentation - 765
+Added input validation - build 118
