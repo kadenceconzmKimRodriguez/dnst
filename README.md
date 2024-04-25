@@ -482,3 +482,4 @@ Fixed typo in documentation
 Fixed typo in documentation - 765
 Added input validation - build 118
 Added input validation - v9.2.4
+Code cleanup and formatting - 568
