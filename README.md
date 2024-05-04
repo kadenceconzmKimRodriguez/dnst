@@ -3336,3 +3336,4 @@ Fixed memory management issue
 Code cleanup and formatting - v7.9.9
 Code cleanup and formatting - v10.8.0
 Added comprehensive test coverage - 545
+Fixed code formatting issues - v3.0.7
