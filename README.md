@@ -3063,3 +3063,4 @@ Refactored code for better maintainability - v7.7.6
 Fixed critical bug in main module - 424
 Updated styling and themes - 662
 Code cleanup and formatting - build 265
+Fixed code formatting issues
