@@ -2456,3 +2456,4 @@ Code cleanup and formatting - 511
 Added input validation
 Fixed typo in documentation - v5.7.8
 Updated version number - build 897
+Fixed typo in documentation - 150
