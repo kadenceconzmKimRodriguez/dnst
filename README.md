@@ -2452,3 +2452,4 @@ Added input validation
 Added input validation - build 125
 Optimized algorithm for better efficiency - update 7
 Fixed code formatting issues - v9.9.3
+Code cleanup and formatting - 511
