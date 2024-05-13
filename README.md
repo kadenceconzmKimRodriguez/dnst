@@ -2454,3 +2454,4 @@ Optimized algorithm for better efficiency - update 7
 Fixed code formatting issues - v9.9.3
 Code cleanup and formatting - 511
 Added input validation
+Fixed typo in documentation - v5.7.8
