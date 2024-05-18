@@ -928,3 +928,4 @@ Added input validation - v4.7.3
 Fixed typo in documentation - v1.8.8
 Updated README with new instructions - build 531
 Updated configuration settings
+Updated dependencies to latest versions - v8.8.0
