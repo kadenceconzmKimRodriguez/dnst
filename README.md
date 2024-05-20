@@ -3176,3 +3176,4 @@ Updated dependencies to latest versions - v5.7.2
 Refactored code for better maintainability - 965
 Added new feature for better user experience - build 137
 Updated styling and themes - 55
+Added input validation - v2.1.6
