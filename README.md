@@ -3607,3 +3607,4 @@ Updated version number - v3.5.2
 Updated dependencies to latest versions - update 44
 Updated version number - v9.1.1
 Updated dependencies to latest versions - 776
+Updated version number - update 42
