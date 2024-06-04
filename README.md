@@ -693,3 +693,4 @@ Refactored code for better maintainability
 Updated dependencies to latest versions - v4.4.1
 Fixed typo in documentation - 481
 Fixed code formatting issues - 596
+Added detailed comments for clarity - v9.1.7
