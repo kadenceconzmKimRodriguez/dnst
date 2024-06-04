@@ -692,3 +692,4 @@ Fixed critical bug in main module - v3.0.3
 Refactored code for better maintainability
 Updated dependencies to latest versions - v4.4.1
 Fixed typo in documentation - 481
+Fixed code formatting issues - 596
