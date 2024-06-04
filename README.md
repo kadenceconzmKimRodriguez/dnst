@@ -696,3 +696,4 @@ Fixed code formatting issues - 596
 Added detailed comments for clarity - v9.1.7
 Updated styling and themes - build 581
 Updated project documentation - build 349
+Fixed typo in documentation - v7.6.6
