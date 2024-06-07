@@ -1394,3 +1394,4 @@ Updated dependencies to latest versions - build 765
 Fixed typo in documentation - update 6
 Updated version number - v4.1.8
 Updated version number - 716
+Refactored code for better maintainability - 628
