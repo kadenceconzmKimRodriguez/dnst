@@ -1396,3 +1396,4 @@ Updated version number - v4.1.8
 Updated version number - 716
 Refactored code for better maintainability - 628
 Code cleanup and formatting - update 9
+Fixed memory management issue
