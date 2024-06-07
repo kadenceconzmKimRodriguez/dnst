@@ -1391,3 +1391,4 @@ Updated configuration settings
 Added input validation - update 19
 Updated dependencies to latest versions - v3.0.4
 Updated dependencies to latest versions - build 765
+Fixed typo in documentation - update 6
