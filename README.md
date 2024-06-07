@@ -477,3 +477,4 @@ Updated configuration settings - update 18
 Updated project documentation - build 394
 Added new feature for better user experience - update 20
 Updated version number
+Fixed code formatting issues - v8.5.3
