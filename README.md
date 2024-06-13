@@ -968,3 +968,4 @@ Added new feature for better user experience - update 23
 Updated dependencies to latest versions - build 297
 Updated styling and themes
 Optimized algorithm for better efficiency - build 949
+Added proper error handling - v1.1.5
