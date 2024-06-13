@@ -974,3 +974,4 @@ Fixed memory management issue - 864
 Refactored code for better maintainability
 Optimized algorithm for better efficiency
 Updated version number - v10.6.4
+Fixed memory management issue - build 583
