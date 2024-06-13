@@ -977,3 +977,4 @@ Updated version number - v10.6.4
 Fixed memory management issue - build 583
 Updated styling and themes
 Updated version number - 663
+Added detailed comments for clarity - 562
