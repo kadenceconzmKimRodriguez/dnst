@@ -3427,3 +3427,4 @@ Updated version number
 Updated README with new instructions - v8.5.0
 Updated version number
 Added proper error handling - update 20
+Added proper error handling - build 706
