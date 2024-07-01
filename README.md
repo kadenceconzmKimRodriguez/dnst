@@ -3424,3 +3424,4 @@ Updated project documentation - v9.8.3
 Fixed code formatting issues
 Fixed typo in documentation - 801
 Updated version number
+Updated README with new instructions - v8.5.0
