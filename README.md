@@ -3419,3 +3419,4 @@ Added new feature for better user experience - v10.9.0
 Added proper error handling - build 705
 Fixed typo in documentation - update 33
 Updated README with new instructions - build 408
+Updated styling and themes
