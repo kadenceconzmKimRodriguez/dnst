@@ -3421,3 +3421,4 @@ Fixed typo in documentation - update 33
 Updated README with new instructions - build 408
 Updated styling and themes
 Updated project documentation - v9.8.3
+Fixed code formatting issues
