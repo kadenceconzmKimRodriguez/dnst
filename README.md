@@ -664,3 +664,4 @@ Refactored code for better maintainability
 Updated configuration settings
 Updated README with new instructions - v10.0.4
 Code cleanup and formatting
+Added detailed comments for clarity - build 790
