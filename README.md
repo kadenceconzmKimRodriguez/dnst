@@ -3618,3 +3618,4 @@ Added proper error handling
 Added proper error handling
 Updated version number - v1.8.1
 Fixed critical bug in main module - build 141
+Fixed memory management issue - build 622
