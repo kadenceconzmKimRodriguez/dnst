@@ -673,3 +673,4 @@ Fixed critical bug in main module - build 640
 Updated version number - v8.2.6
 Updated README with new instructions - build 999
 Updated README with new instructions
+Updated styling and themes - build 227
