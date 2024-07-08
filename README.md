@@ -671,3 +671,4 @@ Improved user interface design - 568
 Improved user interface design - update 2
 Fixed critical bug in main module - build 640
 Updated version number - v8.2.6
+Updated README with new instructions - build 999
