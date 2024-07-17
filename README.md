@@ -743,3 +743,4 @@ Added new feature for better user experience - 105
 Code cleanup and formatting - build 482
 Updated styling and themes - v2.2.5
 Updated project documentation - v1.0.9
+Updated README with new instructions - update 36
