@@ -746,3 +746,4 @@ Updated project documentation - v1.0.9
 Updated README with new instructions - update 36
 Updated dependencies to latest versions - 887
 Added input validation - v9.9.7
+Added detailed comments for clarity - update 17
