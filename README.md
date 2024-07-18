@@ -508,3 +508,4 @@ Updated project documentation - 138
 Updated styling and themes - v7.7.0
 Updated version number - v10.3.8
 Added proper error handling - v8.0.7
+Added input validation
