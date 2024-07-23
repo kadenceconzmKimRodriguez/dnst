@@ -413,3 +413,4 @@ Updated dependencies to latest versions - 610
 Updated configuration settings - build 228
 Fixed typo in documentation - update 10
 Improved user interface design - build 790
+Fixed memory management issue - v3.3.8
