@@ -584,3 +584,4 @@ Updated dependencies to latest versions - v10.2.7
 Added proper error handling - 744
 Updated configuration settings - v8.2.9
 Added detailed comments for clarity - build 141
+Updated README with new instructions
