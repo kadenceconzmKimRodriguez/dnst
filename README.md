@@ -718,3 +718,4 @@ Fixed code formatting issues - v3.2.7
 Improved user interface design - 785
 Updated configuration settings - build 761
 Updated version number - 417
+Updated dependencies to latest versions - v1.3.8
