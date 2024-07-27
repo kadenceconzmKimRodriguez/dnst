@@ -725,3 +725,4 @@ Improved user interface design - 260
 Updated styling and themes - build 385
 Added new feature for better user experience - 327
 Refactored code for better maintainability - v8.5.6
+Updated README with new instructions - build 579
