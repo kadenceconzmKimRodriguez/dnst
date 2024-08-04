@@ -2867,3 +2867,4 @@ Updated README with new instructions - update 4
 Updated styling and themes
 Improved performance optimization - build 193
 Improved user interface design - v1.3.3
+Updated version number - v1.2.1
