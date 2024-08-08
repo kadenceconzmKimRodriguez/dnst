@@ -3291,3 +3291,4 @@ Added input validation - v2.8.5
 Added input validation - v1.4.3
 Added new feature for better user experience
 Improved performance optimization - build 355
+Updated README with new instructions - v2.3.1
