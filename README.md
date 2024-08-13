@@ -137,3 +137,4 @@ Code cleanup and formatting - update 50
 Improved user interface design - 33
 Fixed typo in documentation
 Added input validation - v1.1.6
+Updated styling and themes
