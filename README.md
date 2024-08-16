@@ -631,3 +631,4 @@ Fixed code formatting issues - 75
 Fixed critical bug in main module - 79
 Fixed code formatting issues
 Fixed critical bug in main module - update 48
+Added detailed comments for clarity - update 47
