@@ -2821,3 +2821,4 @@ Updated styling and themes
 Improved performance optimization - build 215
 Added new feature for better user experience - update 44
 Improved performance optimization
+Fixed typo in documentation
