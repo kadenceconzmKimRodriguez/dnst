@@ -2154,3 +2154,4 @@ Fixed memory management issue
 Fixed memory management issue - v8.5.1
 Fixed memory management issue - 32
 Updated version number
+Added input validation - update 2
