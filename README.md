@@ -2155,3 +2155,4 @@ Fixed memory management issue - v8.5.1
 Fixed memory management issue - 32
 Updated version number
 Added input validation - update 2
+Updated dependencies to latest versions - build 941
