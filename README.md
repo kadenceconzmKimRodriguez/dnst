@@ -2151,3 +2151,4 @@ Updated project documentation - update 27
 Updated dependencies to latest versions - 701
 Refactored code for better maintainability
 Fixed memory management issue
+Fixed memory management issue - v8.5.1
