@@ -908,3 +908,4 @@ Improved performance optimization - update 7
 Updated configuration settings - build 310
 Fixed typo in documentation - build 516
 Updated version number - v1.7.7
+Updated README with new instructions - v2.1.2
