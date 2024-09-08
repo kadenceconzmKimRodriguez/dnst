@@ -912,3 +912,4 @@ Updated README with new instructions - v2.1.2
 Refactored code for better maintainability - update 11
 Updated configuration settings - update 39
 Added detailed comments for clarity - build 874
+Fixed memory management issue
