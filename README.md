@@ -917,3 +917,4 @@ Refactored code for better maintainability - v10.2.8
 Refactored code for better maintainability - 387
 Added new feature for better user experience - build 439
 Fixed typo in documentation - v10.7.8
+Added proper error handling - build 415
