@@ -2520,3 +2520,4 @@ Updated README with new instructions
 Refactored code for better maintainability
 Added proper error handling - build 280
 Updated dependencies to latest versions - 826
+Added comprehensive test coverage - v2.9.8
