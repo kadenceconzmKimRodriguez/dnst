@@ -3241,3 +3241,4 @@ Fixed typo in documentation
 Added detailed comments for clarity - v10.5.2
 Optimized algorithm for better efficiency - v2.3.4
 Improved performance optimization - v2.5.5
+Added proper error handling
