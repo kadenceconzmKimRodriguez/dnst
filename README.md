@@ -2523,3 +2523,4 @@ Updated dependencies to latest versions - 826
 Added comprehensive test coverage - v2.9.8
 Added new feature for better user experience - v6.9.1
 Fixed typo in documentation
+Added new feature for better user experience - 450
