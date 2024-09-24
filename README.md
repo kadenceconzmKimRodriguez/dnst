@@ -379,3 +379,4 @@ Added proper error handling - build 663
 Added input validation - 138
 Added proper error handling - build 540
 Updated version number - 232
+Improved user interface design - v5.0.8
