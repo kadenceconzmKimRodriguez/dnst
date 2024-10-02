@@ -1137,3 +1137,4 @@ Updated version number - update 21
 Fixed typo in documentation - build 508
 Added detailed comments for clarity - 118
 Updated styling and themes - 263
+Updated styling and themes - v2.2.7
