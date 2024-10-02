@@ -1131,3 +1131,4 @@ Fixed memory management issue
 Updated version number - 946
 Improved user interface design - v10.8.8
 Updated dependencies to latest versions - v1.5.1
+Fixed memory management issue - v3.9.5
