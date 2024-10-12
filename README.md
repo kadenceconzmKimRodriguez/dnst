@@ -435,3 +435,4 @@ Refactored code for better maintainability - 727
 Fixed critical bug in main module - build 308
 Refactored code for better maintainability - build 531
 Fixed critical bug in main module - build 991
+Fixed memory management issue - v4.1.8
