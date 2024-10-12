@@ -1165,3 +1165,4 @@ Updated version number - 625
 Updated README with new instructions - v1.4.0
 Updated styling and themes - build 699
 Improved user interface design - update 21
+Fixed typo in documentation - build 762
