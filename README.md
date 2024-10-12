@@ -3271,3 +3271,4 @@ Updated configuration settings
 Improved user interface design
 Fixed code formatting issues - build 544
 Added new feature for better user experience - v1.9.0
+Fixed typo in documentation - v1.3.3
