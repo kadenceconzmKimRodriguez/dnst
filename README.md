@@ -434,3 +434,4 @@ Updated styling and themes - v7.9.6
 Refactored code for better maintainability - 727
 Fixed critical bug in main module - build 308
 Refactored code for better maintainability - build 531
+Fixed critical bug in main module - build 991
