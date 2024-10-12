@@ -437,3 +437,4 @@ Refactored code for better maintainability - build 531
 Fixed critical bug in main module - build 991
 Fixed memory management issue - v4.1.8
 Added new feature for better user experience - v2.0.1
+Added new feature for better user experience - build 237
