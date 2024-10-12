@@ -1162,3 +1162,4 @@ Refactored code for better maintainability
 Added new feature for better user experience - 117
 Added comprehensive test coverage - update 47
 Updated version number - 625
+Updated README with new instructions - v1.4.0
