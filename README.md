@@ -3274,3 +3274,4 @@ Added new feature for better user experience - v1.9.0
 Fixed typo in documentation - v1.3.3
 Updated dependencies to latest versions - v3.0.3
 Optimized algorithm for better efficiency - v3.2.9
+Fixed critical bug in main module - v2.9.1
