@@ -3137,3 +3137,4 @@ Fixed critical bug in main module
 Updated README with new instructions - update 20
 Fixed typo in documentation - v2.2.4
 Updated dependencies to latest versions - v8.2.8
+Code cleanup and formatting - v7.2.8
