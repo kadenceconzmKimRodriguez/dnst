@@ -2341,3 +2341,4 @@ Improved user interface design - update 12
 Added comprehensive test coverage - v6.7.9
 Improved user interface design - build 709
 Added new feature for better user experience - 785
+Updated README with new instructions - 310
