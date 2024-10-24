@@ -1955,3 +1955,4 @@ Updated version number - build 916
 Refactored code for better maintainability - v7.4.8
 Fixed memory management issue - update 29
 Updated version number - build 285
+Fixed memory management issue - update 11
