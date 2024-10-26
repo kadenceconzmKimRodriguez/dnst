@@ -728,3 +728,4 @@ Refactored code for better maintainability - v8.5.6
 Updated README with new instructions - build 579
 Fixed critical bug in main module - build 612
 Updated README with new instructions - build 987
+Updated version number
