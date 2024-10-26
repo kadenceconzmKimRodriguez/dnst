@@ -729,3 +729,4 @@ Updated README with new instructions - build 579
 Fixed critical bug in main module - build 612
 Updated README with new instructions - build 987
 Updated version number
+Code cleanup and formatting - v4.4.6
