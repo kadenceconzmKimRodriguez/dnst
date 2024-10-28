@@ -104,3 +104,4 @@ Added detailed comments for clarity - 978
 Improved user interface design - build 884
 Updated configuration settings
 Updated configuration settings
+Improved user interface design - v10.3.9
