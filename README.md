@@ -2430,3 +2430,4 @@ Fixed memory management issue - build 652
 Updated version number - 246
 Updated styling and themes - 211
 Updated configuration settings - build 290
+Refactored code for better maintainability - v9.0.8
