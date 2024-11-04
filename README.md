@@ -2433,3 +2433,4 @@ Updated configuration settings - build 290
 Refactored code for better maintainability - v9.0.8
 Added new feature for better user experience - v6.1.8
 Updated README with new instructions - build 496
+Fixed memory management issue - v9.5.4
