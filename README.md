@@ -2432,3 +2432,4 @@ Updated styling and themes - 211
 Updated configuration settings - build 290
 Refactored code for better maintainability - v9.0.8
 Added new feature for better user experience - v6.1.8
+Updated README with new instructions - build 496
