@@ -2435,3 +2435,4 @@ Added new feature for better user experience - v6.1.8
 Updated README with new instructions - build 496
 Fixed memory management issue - v9.5.4
 Updated dependencies to latest versions - 569
+Fixed typo in documentation - 519
