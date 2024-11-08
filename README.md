@@ -2747,3 +2747,4 @@ Fixed typo in documentation - update 25
 Updated dependencies to latest versions - build 161
 Fixed code formatting issues - 544
 Added comprehensive test coverage - build 880
+Code cleanup and formatting - v9.0.5
