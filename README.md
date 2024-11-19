@@ -2334,3 +2334,4 @@ Updated version number
 Updated styling and themes - v8.5.6
 Updated version number - build 939
 Improved user interface design - v7.3.5
+Added new feature for better user experience - 968
