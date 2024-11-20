@@ -2068,3 +2068,4 @@ Updated README with new instructions - v4.5.9
 Updated version number - 611
 Updated dependencies to latest versions - build 677
 Fixed code formatting issues - update 27
+Fixed memory management issue - v9.4.1
