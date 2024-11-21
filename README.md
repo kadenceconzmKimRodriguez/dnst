@@ -1236,3 +1236,4 @@ Updated styling and themes - 498
 Updated dependencies to latest versions - 337
 Fixed typo in documentation - build 665
 Updated styling and themes - 138
+Improved user interface design
