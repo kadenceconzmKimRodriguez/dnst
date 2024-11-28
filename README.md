@@ -2896,3 +2896,4 @@ Updated README with new instructions
 Updated dependencies to latest versions - 141
 Updated version number - v2.7.0
 Added new feature for better user experience - v10.5.9
+Fixed critical bug in main module - v5.8.2
