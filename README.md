@@ -2894,3 +2894,4 @@ Improved performance optimization - update 18
 Updated styling and themes - build 465
 Updated README with new instructions
 Updated dependencies to latest versions - 141
+Updated version number - v2.7.0
