@@ -3775,3 +3775,4 @@ Added proper error handling
 Fixed critical bug in main module
 Fixed typo in documentation - build 968
 Refactored code for better maintainability
+Added detailed comments for clarity - v8.6.5
