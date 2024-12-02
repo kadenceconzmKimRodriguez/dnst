@@ -3998,3 +3998,4 @@ Added new feature for better user experience - v7.8.9
 Added input validation - build 272
 Updated configuration settings - build 254
 Fixed critical bug in main module - 179
+Added detailed comments for clarity - v5.0.3
