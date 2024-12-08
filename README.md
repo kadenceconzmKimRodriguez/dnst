@@ -3907,3 +3907,4 @@ Refactored code for better maintainability - build 736
 Added input validation - update 34
 Updated README with new instructions - update 47
 Updated project documentation
+Added detailed comments for clarity - update 41
