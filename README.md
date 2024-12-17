@@ -3572,3 +3572,4 @@ Refactored code for better maintainability - 422
 Updated version number - v9.2.1
 Refactored code for better maintainability - 990
 Code cleanup and formatting - 693
+Fixed code formatting issues
