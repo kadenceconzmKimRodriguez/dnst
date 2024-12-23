@@ -1751,3 +1751,4 @@ Updated project documentation
 Fixed code formatting issues - 469
 Updated project documentation - v7.0.2
 Code cleanup and formatting - build 718
+Updated configuration settings - 852
