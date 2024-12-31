@@ -1654,3 +1654,4 @@ Updated dependencies to latest versions
 Improved user interface design - v3.2.9
 Updated README with new instructions - v1.0.6
 Improved user interface design - update 9
+Fixed typo in documentation - 698
