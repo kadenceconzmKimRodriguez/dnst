@@ -533,3 +533,4 @@ Fixed memory management issue - 20
 Updated version number - v3.5.6
 Updated styling and themes - 52
 Updated project documentation - v1.3.8
+Fixed code formatting issues - v5.4.4
