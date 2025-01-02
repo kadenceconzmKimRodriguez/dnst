@@ -529,3 +529,4 @@ Improved performance optimization - build 897
 Improved user interface design - v8.4.2
 Updated version number - update 9
 Improved user interface design - 440
+Fixed memory management issue - 20
