@@ -1065,3 +1065,4 @@ Updated styling and themes - build 895
 Fixed memory management issue
 Fixed memory management issue
 Fixed code formatting issues - build 263
+Code cleanup and formatting - v9.6.3
