@@ -2466,3 +2466,4 @@ Fixed typo in documentation - v8.1.2
 Updated version number - 659
 Fixed memory management issue
 Updated version number - build 865
+Updated styling and themes - v5.4.1
