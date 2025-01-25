@@ -2462,3 +2462,4 @@ Improved user interface design
 Updated styling and themes - update 47
 Code cleanup and formatting - v1.3.3
 Updated dependencies to latest versions
+Fixed typo in documentation - v8.1.2
