@@ -2458,3 +2458,4 @@ Fixed typo in documentation - v5.7.8
 Updated version number - build 897
 Fixed typo in documentation - 150
 Updated configuration settings - 329
+Improved user interface design
