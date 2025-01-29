@@ -3041,3 +3041,4 @@ Added proper error handling - build 438
 Fixed code formatting issues - build 733
 Updated styling and themes - 912
 Fixed typo in documentation
+Added input validation - v2.0.6
