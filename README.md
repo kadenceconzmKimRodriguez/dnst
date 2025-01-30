@@ -1821,3 +1821,4 @@ Updated styling and themes - build 851
 Fixed typo in documentation - build 829
 Fixed critical bug in main module - 14
 Fixed memory management issue - build 174
+Added proper error handling - v9.0.0
