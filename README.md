@@ -3669,3 +3669,4 @@ Added new feature for better user experience
 Improved user interface design - 625
 Fixed critical bug in main module - v3.6.8
 Fixed critical bug in main module - 352
+Refactored code for better maintainability
