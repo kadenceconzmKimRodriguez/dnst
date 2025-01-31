@@ -3676,3 +3676,4 @@ Updated dependencies to latest versions - build 907
 Code cleanup and formatting
 Updated project documentation
 Updated styling and themes - update 8
+Fixed critical bug in main module - v8.8.2
