@@ -142,3 +142,4 @@ Fixed memory management issue - build 780
 Refactored code for better maintainability - 521
 Improved user interface design - 525
 Fixed code formatting issues - v6.1.9
+Updated README with new instructions - build 888
