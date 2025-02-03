@@ -140,3 +140,4 @@ Added input validation - v1.1.6
 Updated styling and themes
 Fixed memory management issue - build 780
 Refactored code for better maintainability - 521
+Improved user interface design - 525
