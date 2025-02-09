@@ -215,3 +215,4 @@ Improved performance optimization - v3.3.2
 Fixed typo in documentation
 Updated dependencies to latest versions - v6.7.4
 Fixed memory management issue - build 430
+Updated README with new instructions - update 30
