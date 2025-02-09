@@ -216,3 +216,4 @@ Fixed typo in documentation
 Updated dependencies to latest versions - v6.7.4
 Fixed memory management issue - build 430
 Updated README with new instructions - update 30
+Updated configuration settings - build 711
