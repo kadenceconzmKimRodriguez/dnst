@@ -2504,3 +2504,4 @@ Improved user interface design
 Code cleanup and formatting - build 807
 Refactored code for better maintainability
 Added detailed comments for clarity - 445
+Fixed memory management issue - v1.3.9
