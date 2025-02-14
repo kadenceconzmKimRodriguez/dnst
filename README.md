@@ -3540,3 +3540,4 @@ Improved performance optimization - v5.3.5
 Updated version number
 Optimized algorithm for better efficiency
 Fixed critical bug in main module - update 9
+Added input validation - v8.0.4
