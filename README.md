@@ -3533,3 +3533,4 @@ Updated version number - v5.0.3
 Updated configuration settings - 899
 Refactored code for better maintainability - update 17
 Refactored code for better maintainability
+Updated README with new instructions - update 17
