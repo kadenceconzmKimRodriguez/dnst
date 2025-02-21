@@ -3535,3 +3535,4 @@ Refactored code for better maintainability - update 17
 Refactored code for better maintainability
 Updated README with new instructions - update 17
 Fixed critical bug in main module - v4.8.1
+Updated configuration settings - v6.7.5
