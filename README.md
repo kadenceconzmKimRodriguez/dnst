@@ -64,3 +64,4 @@ Code cleanup and formatting - 471
 Updated configuration settings - v4.0.9
 Updated styling and themes - build 303
 Updated version number - build 709
+Added proper error handling - update 8
