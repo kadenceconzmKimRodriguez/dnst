@@ -939,3 +939,4 @@ Added detailed comments for clarity - v9.1.9
 Updated version number - 955
 Updated project documentation - update 14
 Fixed typo in documentation - update 25
+Fixed code formatting issues
