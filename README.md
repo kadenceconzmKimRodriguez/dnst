@@ -945,3 +945,4 @@ Fixed memory management issue - update 19
 Added proper error handling
 Added new feature for better user experience - 906
 Added input validation - build 697
+Updated README with new instructions - v9.9.4
