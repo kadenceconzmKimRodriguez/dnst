@@ -942,3 +942,4 @@ Fixed typo in documentation - update 25
 Fixed code formatting issues
 Fixed typo in documentation - v2.6.5
 Fixed memory management issue - update 19
+Added proper error handling
