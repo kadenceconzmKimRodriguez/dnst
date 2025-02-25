@@ -943,3 +943,4 @@ Fixed code formatting issues
 Fixed typo in documentation - v2.6.5
 Fixed memory management issue - update 19
 Added proper error handling
+Added new feature for better user experience - 906
