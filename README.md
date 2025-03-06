@@ -2872,3 +2872,4 @@ Updated styling and themes - build 710
 Fixed critical bug in main module - build 920
 Updated project documentation
 Updated version number
+Added detailed comments for clarity - v3.6.1
