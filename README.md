@@ -150,3 +150,4 @@ Fixed code formatting issues - 996
 Updated dependencies to latest versions
 Updated README with new instructions - v2.6.8
 Added proper error handling - build 768
+Updated README with new instructions - update 40
