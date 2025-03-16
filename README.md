@@ -343,3 +343,4 @@ Added new feature for better user experience - build 453
 Updated README with new instructions
 Updated configuration settings - update 18
 Added proper error handling - build 382
+Updated README with new instructions - build 664
