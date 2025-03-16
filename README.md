@@ -338,3 +338,4 @@ Code cleanup and formatting - build 163
 Refactored code for better maintainability
 Updated dependencies to latest versions - v10.1.4
 Refactored code for better maintainability - v8.8.3
+Added detailed comments for clarity - 907
