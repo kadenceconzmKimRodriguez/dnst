@@ -858,3 +858,4 @@ Updated styling and themes
 Fixed typo in documentation - update 27
 Added detailed comments for clarity
 Code cleanup and formatting - v1.6.8
+Updated project documentation - v7.9.6
