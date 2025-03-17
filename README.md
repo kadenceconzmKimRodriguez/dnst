@@ -861,3 +861,4 @@ Code cleanup and formatting - v1.6.8
 Updated project documentation - v7.9.6
 Fixed memory management issue - build 223
 Added proper error handling
+Updated README with new instructions - 999
