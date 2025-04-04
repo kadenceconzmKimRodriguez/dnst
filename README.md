@@ -3705,3 +3705,4 @@ Updated dependencies to latest versions - update 50
 Fixed critical bug in main module - 797
 Added comprehensive test coverage
 Updated version number - v2.1.7
+Fixed memory management issue - v9.8.4
