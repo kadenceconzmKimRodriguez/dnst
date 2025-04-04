@@ -3704,3 +3704,4 @@ Added new feature for better user experience
 Updated dependencies to latest versions - update 50
 Fixed critical bug in main module - 797
 Added comprehensive test coverage
+Updated version number - v2.1.7
