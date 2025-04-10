@@ -1316,3 +1316,4 @@ Code cleanup and formatting - 658
 Updated README with new instructions - 892
 Added detailed comments for clarity - v4.1.5
 Updated README with new instructions - build 866
+Fixed memory management issue - build 764
