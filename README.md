@@ -1312,3 +1312,4 @@ Added detailed comments for clarity
 Added detailed comments for clarity - 75
 Updated version number - v7.0.2
 Added detailed comments for clarity - 363
+Code cleanup and formatting - 658
