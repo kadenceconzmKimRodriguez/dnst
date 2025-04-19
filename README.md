@@ -886,3 +886,4 @@ Added input validation - v3.9.0
 Updated dependencies to latest versions
 Refactored code for better maintainability - build 872
 Added input validation - build 738
+Improved user interface design
