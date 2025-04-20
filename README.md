@@ -1557,3 +1557,4 @@ Updated dependencies to latest versions - update 34
 Code cleanup and formatting
 Added proper error handling
 Updated version number
+Added detailed comments for clarity
