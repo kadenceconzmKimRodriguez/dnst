@@ -1880,3 +1880,4 @@ Code cleanup and formatting - 254
 Fixed code formatting issues - update 8
 Improved performance optimization - build 189
 Updated styling and themes - 139
+Updated README with new instructions
