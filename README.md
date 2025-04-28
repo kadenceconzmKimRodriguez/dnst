@@ -2805,3 +2805,4 @@ Code cleanup and formatting - 113
 Improved user interface design
 Code cleanup and formatting - v9.3.0
 Fixed critical bug in main module - update 3
+Improved user interface design
