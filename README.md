@@ -2803,3 +2803,4 @@ Added proper error handling
 Fixed typo in documentation - 745
 Code cleanup and formatting - 113
 Improved user interface design
+Code cleanup and formatting - v9.3.0
