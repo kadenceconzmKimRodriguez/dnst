@@ -1445,3 +1445,4 @@ Fixed code formatting issues - v10.8.7
 Improved user interface design
 Fixed typo in documentation - v5.9.7
 Code cleanup and formatting - 930
+Added detailed comments for clarity - 737
