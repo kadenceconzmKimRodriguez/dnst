@@ -2225,3 +2225,4 @@ Optimized algorithm for better efficiency - build 199
 Fixed memory management issue - update 47
 Optimized algorithm for better efficiency - 556
 Fixed memory management issue - v9.6.1
+Fixed code formatting issues - update 24
