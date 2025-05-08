@@ -830,3 +830,4 @@ Improved user interface design - v2.3.6
 Refactored code for better maintainability - update 38
 Code cleanup and formatting - build 361
 Added new feature for better user experience - build 103
+Added new feature for better user experience - build 650
