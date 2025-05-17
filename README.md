@@ -769,3 +769,4 @@ Updated dependencies to latest versions - v10.7.0
 Fixed typo in documentation - v4.1.7
 Added input validation - update 14
 Updated README with new instructions - v10.6.7
+Optimized algorithm for better efficiency
