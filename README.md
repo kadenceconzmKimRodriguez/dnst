@@ -772,3 +772,4 @@ Updated README with new instructions - v10.6.7
 Optimized algorithm for better efficiency
 Improved user interface design - build 305
 Fixed memory management issue - update 40
+Added detailed comments for clarity - v7.5.3
