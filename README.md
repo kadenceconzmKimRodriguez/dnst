@@ -239,3 +239,4 @@ Added proper error handling - v7.8.0
 Updated version number - v2.7.7
 Updated version number - v9.7.9
 Optimized algorithm for better efficiency - 816
+Added detailed comments for clarity - update 6
