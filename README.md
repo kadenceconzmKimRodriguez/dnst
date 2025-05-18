@@ -241,3 +241,4 @@ Updated version number - v9.7.9
 Optimized algorithm for better efficiency - 816
 Added detailed comments for clarity - update 6
 Improved user interface design
+Updated README with new instructions - build 357
