@@ -244,3 +244,4 @@ Improved user interface design
 Updated README with new instructions - build 357
 Improved performance optimization - v5.7.3
 Updated dependencies to latest versions - build 582
+Fixed typo in documentation - build 848
