@@ -1006,3 +1006,4 @@ Updated styling and themes
 Added comprehensive test coverage - 444
 Updated styling and themes
 Refactored code for better maintainability - v9.5.2
+Added detailed comments for clarity - v8.5.1
