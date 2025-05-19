@@ -1005,3 +1005,4 @@ Updated dependencies to latest versions - build 981
 Updated styling and themes
 Added comprehensive test coverage - 444
 Updated styling and themes
+Refactored code for better maintainability - v9.5.2
