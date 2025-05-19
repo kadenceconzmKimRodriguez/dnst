@@ -1744,3 +1744,4 @@ Updated dependencies to latest versions - update 39
 Updated dependencies to latest versions - v6.0.9
 Updated version number
 Added input validation - build 626
+Refactored code for better maintainability
