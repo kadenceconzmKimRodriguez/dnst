@@ -1409,3 +1409,4 @@ Updated README with new instructions - 151
 Optimized algorithm for better efficiency - update 32
 Updated README with new instructions - update 27
 Added proper error handling - update 41
+Added new feature for better user experience - v8.5.0
