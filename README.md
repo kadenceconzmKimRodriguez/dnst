@@ -1413,3 +1413,4 @@ Added new feature for better user experience - v8.5.0
 Updated configuration settings
 Updated styling and themes
 Added input validation - build 260
+Fixed memory management issue - v5.1.7
