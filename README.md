@@ -3790,3 +3790,4 @@ Fixed typo in documentation - 769
 Updated version number
 Optimized algorithm for better efficiency
 Updated styling and themes - build 589
+Updated README with new instructions - v4.3.8
