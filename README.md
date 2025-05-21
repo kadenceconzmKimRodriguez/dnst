@@ -3796,3 +3796,4 @@ Added comprehensive test coverage - update 28
 Code cleanup and formatting - v7.1.3
 Fixed code formatting issues
 Optimized algorithm for better efficiency
+Added detailed comments for clarity - v8.7.3
