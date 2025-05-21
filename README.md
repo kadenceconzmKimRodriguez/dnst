@@ -3791,3 +3791,4 @@ Updated version number
 Optimized algorithm for better efficiency
 Updated styling and themes - build 589
 Updated README with new instructions - v4.3.8
+Updated dependencies to latest versions - v3.7.4
