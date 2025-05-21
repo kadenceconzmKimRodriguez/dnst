@@ -3797,3 +3797,4 @@ Code cleanup and formatting - v7.1.3
 Fixed code formatting issues
 Optimized algorithm for better efficiency
 Added detailed comments for clarity - v8.7.3
+Fixed memory management issue - 261
