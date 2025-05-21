@@ -1417,3 +1417,4 @@ Fixed memory management issue - v5.1.7
 Code cleanup and formatting - v8.3.5
 Updated dependencies to latest versions - update 32
 Fixed typo in documentation - update 22
+Updated styling and themes - v3.6.5
