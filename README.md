@@ -749,3 +749,4 @@ Added input validation - v9.9.7
 Added detailed comments for clarity - update 17
 Added input validation - v1.0.4
 Optimized algorithm for better efficiency - 458
+Fixed memory management issue - 946
