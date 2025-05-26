@@ -361,3 +361,4 @@ Updated dependencies to latest versions - v9.0.3
 Refactored code for better maintainability - 333
 Optimized algorithm for better efficiency - 587
 Refactored code for better maintainability
+Added proper error handling
