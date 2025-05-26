@@ -367,3 +367,4 @@ Added new feature for better user experience
 Added new feature for better user experience - v7.9.0
 Updated configuration settings - build 237
 Fixed code formatting issues - build 379
+Added input validation
