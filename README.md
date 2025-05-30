@@ -3349,3 +3349,4 @@ Added input validation - build 481
 Optimized algorithm for better efficiency - v9.2.7
 Updated README with new instructions - update 48
 Added new feature for better user experience
+Fixed memory management issue - build 707
