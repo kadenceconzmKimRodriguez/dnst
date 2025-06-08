@@ -1615,3 +1615,4 @@ Updated configuration settings - v5.8.4
 Updated configuration settings
 Fixed code formatting issues - build 996
 Updated version number
+Added input validation - build 782
