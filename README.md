@@ -1617,3 +1617,4 @@ Fixed code formatting issues - build 996
 Updated version number
 Added input validation - build 782
 Refactored code for better maintainability - update 46
+Added input validation - v6.7.4
