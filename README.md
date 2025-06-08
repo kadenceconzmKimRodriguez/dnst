@@ -818,3 +818,4 @@ Updated dependencies to latest versions
 Added new feature for better user experience - v5.6.4
 Added new feature for better user experience - build 437
 Updated styling and themes - 770
+Improved performance optimization - build 962
