@@ -1500,3 +1500,4 @@ Fixed memory management issue - build 316
 Updated README with new instructions
 Updated project documentation
 Code cleanup and formatting - update 31
+Refactored code for better maintainability - v2.8.8
