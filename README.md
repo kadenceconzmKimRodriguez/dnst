@@ -1611,3 +1611,4 @@ Updated project documentation - 441
 Updated project documentation - build 487
 Updated configuration settings - build 734
 Fixed code formatting issues - build 108
+Updated configuration settings - v5.8.4
