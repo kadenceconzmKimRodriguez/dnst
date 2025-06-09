@@ -800,3 +800,4 @@ Added input validation
 Optimized algorithm for better efficiency - update 12
 Optimized algorithm for better efficiency - update 4
 Fixed typo in documentation - build 578
+Improved user interface design - v2.6.1
