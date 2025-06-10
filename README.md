@@ -236,3 +236,4 @@ Added proper error handling
 Code cleanup and formatting - build 788
 Updated project documentation - build 410
 Added proper error handling - v7.8.0
+Updated version number - v2.7.7
