@@ -228,3 +228,4 @@ Updated styling and themes
 Fixed code formatting issues - 800
 Added comprehensive test coverage - build 764
 Refactored code for better maintainability - update 50
+Added proper error handling - v2.0.7
