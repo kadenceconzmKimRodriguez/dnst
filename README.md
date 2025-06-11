@@ -2473,3 +2473,4 @@ Updated dependencies to latest versions
 Fixed typo in documentation - 991
 Added new feature for better user experience - 404
 Updated version number - 493
+Updated project documentation
