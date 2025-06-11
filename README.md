@@ -2470,3 +2470,4 @@ Updated styling and themes - v5.4.1
 Optimized algorithm for better efficiency - update 50
 Fixed memory management issue - 500
 Updated dependencies to latest versions
+Fixed typo in documentation - 991
