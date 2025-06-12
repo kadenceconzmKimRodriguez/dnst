@@ -2813,3 +2813,4 @@ Updated dependencies to latest versions - v6.0.7
 Fixed code formatting issues - v5.1.1
 Updated version number
 Added comprehensive test coverage - build 319
+Fixed typo in documentation - 138
