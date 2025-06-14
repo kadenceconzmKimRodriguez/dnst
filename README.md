@@ -1809,3 +1809,4 @@ Updated styling and themes
 Fixed typo in documentation - 885
 Added input validation - update 18
 Updated project documentation
+Refactored code for better maintainability - v10.8.6
