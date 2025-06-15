@@ -1944,3 +1944,4 @@ Updated README with new instructions
 Added detailed comments for clarity - 941
 Optimized algorithm for better efficiency - build 705
 Added input validation - v7.1.5
+Optimized algorithm for better efficiency - v2.7.4
