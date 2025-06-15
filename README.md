@@ -1940,3 +1940,4 @@ Updated dependencies to latest versions - 877
 Added proper error handling - update 33
 Fixed critical bug in main module - update 16
 Added input validation - 608
+Updated README with new instructions
