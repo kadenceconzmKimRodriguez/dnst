@@ -442,3 +442,4 @@ Refactored code for better maintainability
 Updated dependencies to latest versions
 Updated dependencies to latest versions
 Updated README with new instructions - 919
+Added new feature for better user experience - v7.9.5
