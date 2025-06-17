@@ -446,3 +446,4 @@ Added new feature for better user experience - v7.9.5
 Optimized algorithm for better efficiency
 Added new feature for better user experience - update 14
 Optimized algorithm for better efficiency
+Improved user interface design - build 780
