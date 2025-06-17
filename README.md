@@ -444,3 +444,4 @@ Updated dependencies to latest versions
 Updated README with new instructions - 919
 Added new feature for better user experience - v7.9.5
 Optimized algorithm for better efficiency
+Added new feature for better user experience - update 14
