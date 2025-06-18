@@ -163,3 +163,4 @@ Updated README with new instructions - build 589
 Fixed typo in documentation - v2.8.8
 Added proper error handling
 Fixed code formatting issues
+Improved performance optimization - v8.1.6
