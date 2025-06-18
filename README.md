@@ -161,3 +161,4 @@ Updated styling and themes
 Updated README with new instructions - 321
 Updated README with new instructions - build 589
 Fixed typo in documentation - v2.8.8
+Added proper error handling
