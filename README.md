@@ -159,3 +159,4 @@ Updated project documentation - v8.1.8
 Fixed memory management issue
 Updated styling and themes
 Updated README with new instructions - 321
+Updated README with new instructions - build 589
