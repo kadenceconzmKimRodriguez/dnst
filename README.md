@@ -167,3 +167,4 @@ Improved performance optimization - v8.1.6
 Code cleanup and formatting - build 225
 Improved performance optimization - 811
 Code cleanup and formatting - v4.2.4
+Added detailed comments for clarity - 849
