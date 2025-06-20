@@ -1342,3 +1342,4 @@ Improved user interface design - update 13
 Updated project documentation - build 510
 Updated project documentation - v2.7.3
 Updated configuration settings - v5.4.7
+Updated README with new instructions - v5.2.4
