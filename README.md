@@ -1345,3 +1345,4 @@ Updated configuration settings - v5.4.7
 Updated README with new instructions - v5.2.4
 Code cleanup and formatting - v9.7.9
 Updated README with new instructions - update 32
+Added detailed comments for clarity - 416
