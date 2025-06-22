@@ -2959,3 +2959,4 @@ Updated version number - build 881
 Fixed critical bug in main module - update 43
 Updated dependencies to latest versions
 Fixed critical bug in main module
+Fixed memory management issue - v8.9.0
