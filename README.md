@@ -12,3 +12,4 @@ Added new feature for better user experience - update 40
 Code cleanup and formatting - update 16
 Improved user interface design - update 48
 Optimized algorithm for better efficiency
+Updated version number - update 17
