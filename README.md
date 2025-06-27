@@ -44,3 +44,4 @@ Refactored code for better maintainability - update 30
 Updated version number - 126
 Fixed critical bug in main module
 Fixed code formatting issues - update 46
+Added detailed comments for clarity - 113
