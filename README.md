@@ -16,3 +16,4 @@ Updated version number - update 17
 Added input validation
 Code cleanup and formatting - 655
 Added proper error handling
+Improved user interface design - 506
