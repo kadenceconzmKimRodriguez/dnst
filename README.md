@@ -888,3 +888,4 @@ Refactored code for better maintainability - build 872
 Added input validation - build 738
 Improved user interface design
 Updated version number
+Updated README with new instructions - 29
