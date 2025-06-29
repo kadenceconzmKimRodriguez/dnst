@@ -2836,3 +2836,4 @@ Added new feature for better user experience
 Fixed typo in documentation - update 34
 Improved user interface design - build 183
 Code cleanup and formatting - v6.0.2
+Fixed code formatting issues - 235
