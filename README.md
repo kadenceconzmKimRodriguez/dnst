@@ -3503,3 +3503,4 @@ Fixed memory management issue - update 26
 Improved user interface design - 527
 Added input validation - build 546
 Fixed typo in documentation - build 887
+Fixed memory management issue - v8.5.5
