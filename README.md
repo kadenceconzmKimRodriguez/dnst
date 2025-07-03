@@ -2566,3 +2566,4 @@ Optimized algorithm for better efficiency - build 160
 Improved performance optimization - v1.5.9
 Improved user interface design - update 31
 Updated README with new instructions - build 766
+Updated README with new instructions
