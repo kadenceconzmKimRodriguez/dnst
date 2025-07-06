@@ -2754,3 +2754,4 @@ Updated dependencies to latest versions
 Added proper error handling - 436
 Code cleanup and formatting - update 12
 Updated README with new instructions - v1.1.8
+Fixed typo in documentation
