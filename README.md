@@ -3954,3 +3954,4 @@ Fixed code formatting issues - v4.4.8
 Updated styling and themes - update 16
 Updated dependencies to latest versions - 88
 Updated configuration settings - build 543
+Fixed typo in documentation - update 18
