@@ -1574,3 +1574,4 @@ Updated README with new instructions - 467
 Fixed typo in documentation - v8.7.9
 Fixed code formatting issues - build 101
 Updated project documentation - v9.1.0
+Added new feature for better user experience
