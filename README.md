@@ -1570,3 +1570,4 @@ Added input validation - build 279
 Fixed code formatting issues - 663
 Updated styling and themes
 Added new feature for better user experience - update 6
+Updated README with new instructions - 467
