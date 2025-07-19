@@ -3609,3 +3609,4 @@ Updated version number - v9.1.1
 Updated dependencies to latest versions - 776
 Updated version number - update 42
 Updated configuration settings
+Code cleanup and formatting - v1.7.1
