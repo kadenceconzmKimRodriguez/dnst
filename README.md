@@ -304,3 +304,4 @@ Refactored code for better maintainability - build 649
 Updated version number
 Updated styling and themes - build 142
 Updated version number - 956
+Refactored code for better maintainability - v3.6.7
