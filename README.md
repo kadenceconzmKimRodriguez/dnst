@@ -305,3 +305,4 @@ Updated version number
 Updated styling and themes - build 142
 Updated version number - 956
 Refactored code for better maintainability - v3.6.7
+Improved user interface design - build 592
