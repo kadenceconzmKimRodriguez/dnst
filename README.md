@@ -2103,3 +2103,4 @@ Fixed memory management issue - build 900
 Added new feature for better user experience - 404
 Improved user interface design
 Updated configuration settings - update 46
+Fixed memory management issue - v8.5.5
