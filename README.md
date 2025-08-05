@@ -2106,3 +2106,4 @@ Updated configuration settings - update 46
 Fixed memory management issue - v8.5.5
 Code cleanup and formatting - build 724
 Updated styling and themes - v1.1.0
+Updated configuration settings - v9.5.3
