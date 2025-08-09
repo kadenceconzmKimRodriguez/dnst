@@ -1220,3 +1220,4 @@ Refactored code for better maintainability - build 676
 Fixed code formatting issues
 Fixed critical bug in main module - 94
 Added detailed comments for clarity - 275
+Fixed memory management issue - v8.0.1
