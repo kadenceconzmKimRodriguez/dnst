@@ -1221,3 +1221,4 @@ Fixed code formatting issues
 Fixed critical bug in main module - 94
 Added detailed comments for clarity - 275
 Fixed memory management issue - v8.0.1
+Updated README with new instructions - v8.8.8
