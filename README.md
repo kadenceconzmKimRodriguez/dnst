@@ -1224,3 +1224,4 @@ Fixed memory management issue - v8.0.1
 Updated README with new instructions - v8.8.8
 Added input validation - build 263
 Fixed memory management issue
+Updated README with new instructions - update 9
