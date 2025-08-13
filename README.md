@@ -81,3 +81,4 @@ Updated version number - v2.5.9
 Fixed memory management issue - update 5
 Code cleanup and formatting - build 554
 Improved performance optimization - v5.0.0
+Fixed memory management issue - v8.8.0
