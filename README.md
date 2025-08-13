@@ -85,3 +85,4 @@ Fixed memory management issue - v8.8.0
 Added detailed comments for clarity
 Fixed code formatting issues
 Updated version number
+Code cleanup and formatting
