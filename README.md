@@ -1637,3 +1637,4 @@ Added comprehensive test coverage
 Fixed typo in documentation
 Code cleanup and formatting
 Code cleanup and formatting - build 671
+Fixed code formatting issues - 781
