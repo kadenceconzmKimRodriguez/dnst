@@ -1011,3 +1011,4 @@ Improved user interface design - 273
 Improved user interface design - update 33
 Fixed memory management issue
 Fixed typo in documentation
+Updated README with new instructions - update 14
