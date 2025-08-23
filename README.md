@@ -1013,3 +1013,4 @@ Fixed memory management issue
 Fixed typo in documentation
 Updated README with new instructions - update 14
 Refactored code for better maintainability - update 39
+Improved user interface design - v7.0.7
