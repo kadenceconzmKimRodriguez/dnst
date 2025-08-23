@@ -1010,3 +1010,4 @@ Added detailed comments for clarity - v8.5.1
 Improved user interface design - 273
 Improved user interface design - update 33
 Fixed memory management issue
+Fixed typo in documentation
