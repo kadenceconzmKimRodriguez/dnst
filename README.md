@@ -872,3 +872,4 @@ Updated styling and themes - 408
 Updated version number - 697
 Added detailed comments for clarity - build 203
 Updated dependencies to latest versions - build 392
+Updated README with new instructions - update 47
