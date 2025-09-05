@@ -571,3 +571,4 @@ Added new feature for better user experience - build 494
 Added new feature for better user experience
 Improved user interface design - build 939
 Added input validation - 232
+Fixed typo in documentation - v9.6.6
