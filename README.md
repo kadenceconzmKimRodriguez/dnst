@@ -1590,3 +1590,4 @@ Updated version number - v2.5.4
 Fixed typo in documentation - update 27
 Added comprehensive test coverage - update 37
 Updated styling and themes - build 558
+Fixed code formatting issues - build 592
