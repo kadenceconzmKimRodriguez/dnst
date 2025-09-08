@@ -2290,3 +2290,4 @@ Updated styling and themes
 Code cleanup and formatting - build 185
 Updated README with new instructions - build 622
 Added proper error handling - 587
+Updated README with new instructions - 323
