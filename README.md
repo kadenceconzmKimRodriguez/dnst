@@ -2288,3 +2288,4 @@ Updated configuration settings - 207
 Updated project documentation - update 19
 Updated styling and themes
 Code cleanup and formatting - build 185
+Updated README with new instructions - build 622
