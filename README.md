@@ -25,3 +25,4 @@ Fixed memory management issue - update 47
 Added new feature for better user experience
 Added proper error handling
 Fixed typo in documentation - build 817
+Added new feature for better user experience - v1.6.3
