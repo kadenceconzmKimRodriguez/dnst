@@ -3981,3 +3981,4 @@ Fixed memory management issue
 Fixed memory management issue - v8.0.3
 Updated styling and themes
 Fixed typo in documentation - v4.2.9
+Added input validation - v4.6.1
