@@ -3979,3 +3979,4 @@ Updated dependencies to latest versions - update 3
 Updated configuration settings - build 257
 Fixed memory management issue
 Fixed memory management issue - v8.0.3
+Updated styling and themes
