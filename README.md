@@ -464,3 +464,4 @@ Updated styling and themes - update 39
 Added detailed comments for clarity - 464
 Added input validation - 628
 Fixed typo in documentation - update 29
+Updated README with new instructions - v6.3.9
