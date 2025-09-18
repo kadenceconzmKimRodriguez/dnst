@@ -2276,3 +2276,4 @@ Fixed code formatting issues - build 919
 Fixed code formatting issues - v6.4.8
 Fixed memory management issue
 Fixed typo in documentation - v7.4.0
+Fixed critical bug in main module - 609
