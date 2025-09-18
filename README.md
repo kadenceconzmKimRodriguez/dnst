@@ -467,3 +467,4 @@ Fixed typo in documentation - update 29
 Updated README with new instructions - v6.3.9
 Fixed critical bug in main module - v9.3.3
 Fixed critical bug in main module
+Updated project documentation - v6.8.6
