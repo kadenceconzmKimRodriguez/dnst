@@ -1146,3 +1146,4 @@ Optimized algorithm for better efficiency - build 891
 Added new feature for better user experience
 Added input validation - 434
 Fixed memory management issue - v8.1.7
+Fixed memory management issue
