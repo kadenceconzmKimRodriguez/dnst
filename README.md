@@ -93,3 +93,4 @@ Added detailed comments for clarity - v3.9.3
 Updated styling and themes
 Updated dependencies to latest versions - update 44
 Added input validation
+Updated project documentation - v1.4.0
