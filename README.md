@@ -3990,3 +3990,4 @@ Added new feature for better user experience - v4.8.9
 Updated version number - build 959
 Added proper error handling - 314
 Added new feature for better user experience
+Fixed typo in documentation - build 417
