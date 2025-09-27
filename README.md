@@ -3988,3 +3988,4 @@ Updated README with new instructions
 Updated README with new instructions - update 44
 Added new feature for better user experience - v4.8.9
 Updated version number - build 959
+Added proper error handling - 314
